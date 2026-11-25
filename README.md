@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**Mr-Dhanush-git/Mr-Dhanush-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joy_boy_._.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushchinthalapudi) 
 
@@ -16,5 +14,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Mr-Dhanush-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
